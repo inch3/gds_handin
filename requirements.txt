@@ -1,0 +1,26 @@
+# Tested on Python 3.9 (conda-forge), macOS arm64.
+numpy==1.26.4
+pandas==2.2.3
+scipy==1.13.1
+matplotlib==3.8.4
+
+geopandas==0.14.4
+shapely==2.0.1
+pyogrio==0.6.0
+fiona==1.9.4
+pyproj==3.6.1
+
+h3==4.3.0
+osmnx==1.9.4
+contextily==1.6.2
+pooch==1.8.2
+
+libpysal==4.8.0
+esda==2.5.1
+splot==1.1.7
+
+statsmodels==0.14.5
+
+jupyterlab==4.4.6
+notebook==7.4.5
+ipykernel==6.30.1
